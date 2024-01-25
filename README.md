@@ -1,6 +1,14 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# this is a simple calculator app which is created by js library- react
+# this app using react framework- styled components for styling components.
+# it has the following features-
+-add 
+-multiply
+-subtract 
+-devide
+-clear 
+-equal
+-delete
+# and all these features can be clubbed together just like a normal calculator.
 
 ## Available Scripts
 
